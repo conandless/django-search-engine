@@ -2,13 +2,6 @@
 
 Information retrieval and its accuracy has proposed several challenges to scholars in our ever increasing data-centric world. As the data has increased, information has decreased and finding relevant information has become difficult concerning many spheres of life. We tackle one such problem in this paper regarding academic search of professors based on their research interests, publications, universities etc. The proposed search engine can be used by scholars to narrow down their search of universities, research areas or professors based on various criterias and preferences. The search engine can provide them a platform to evaluate various universities, research areas etc. before opting them in their career paths. 
 
-Refer [here](https://drive.google.com/file/d/1weuCTmT9MVvDqZZ68M9xANl6u63Qjdta/view?usp=sharing) for our **project proposal**.
-
-Refer [here](https://drive.google.com/file/d/16eVVmE6eEPuwG_MMWuHwdwqVMfqHndP6/view?usp=sharing) for our **presentation slides**.
-
-Refer [here](https://drive.google.com/file/d/1A8WpnJwAm4MCMqe233OxC6aC5Cmtv0XX/view?usp=sharing) for **NeurIPS format**.
-
-Refer [here](https://drive.google.com/file/d/1TX_nmBeafJQEglPLspJ0Dh92MW0P3sXk/view?usp=sharing) for **demonstration video** of our project. 
 
 ## Codebase Directory Architecture 📁
 ```
